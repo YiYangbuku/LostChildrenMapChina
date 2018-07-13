@@ -1,7 +1,4 @@
-function heatMapColorforValue(value, min, max) {
-  var h = (1.0 - ( value / (max - min))) * 240;
-  return "hsl(" + h + ", 100%, 50%)";
+window.JSMaps.heatMapColorforValue = function heatMapColorforValue(value, min, max) {
+  var h = ( value / (max - min));
+  return "rgb(" + 255 + ", " + 255 * (1 - h) + ", " + 255 * (1 - h) +")";
 };
-
-module.exports = heatMapColorforValue;
-

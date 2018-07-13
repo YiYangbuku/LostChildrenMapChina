@@ -1,4 +1,4 @@
-modules.exports = {
+window.JSMaps.frequency = {
   Shanghai: 364,
   Yunnan: 482,
   'Nei Mongol': 201,
@@ -14,7 +14,7 @@ modules.exports = {
   Guangdong: 1581,
   Guangxi: 455,
   Xinjiang: 163,
-  Jiangshu: 1182,
+  Jiangsu: 1182,
   Jiangxi: 532,
   Hebei: 637,
   Henan: 1325,
