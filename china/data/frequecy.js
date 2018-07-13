@@ -23,7 +23,7 @@ window.JSMaps.frequency = {
   Hubei: 777,
   Hunan: 536,
   Ganshu: 159,
-  Hujian: 938,
+  Fujian: 938,
   Xizhang: 3,
   Guizhou: 1609,
   Liaoling: 210,
