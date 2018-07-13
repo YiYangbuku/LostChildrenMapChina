@@ -12,7 +12,6 @@ window.JSMaps.maps.china = {
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,
-			"color": "#59798e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
@@ -203,7 +202,7 @@ window.JSMaps.maps.china = {
 		},
 		{
 			"enable": true,
-			"name": "Jiansu",
+			"name": "Jiangsu",
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,
@@ -211,7 +210,7 @@ window.JSMaps.maps.china = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>Jiansu</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Jiangsu</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M675.625,361.625 672.25,363 670.75,368.5 667.25,368.5 667.25,374 664,374 659.25,369.25 654.75,374 650.25,374 644.5,371.5 639.25,366.5 633.75,368 633.75,374 642.25,376 646.75,382.75 654.5,382.25 656.75,388.875 662.75,387.25 663.25,390.75 661,398.25 666.75,399.25 668,406.5 672.75,406 677,400.75 679,401.75 681.75,408 680.5,410.75 672.5,409.25 675.625,414.25 672.75,416.75 669.75,417 670.75,422.5 677,428.25 679,429 675.625,433.5 684.25,431 691.25,435.5 695,432.75 697.75,427 703.75,428.5 703.75,433.5 705.5,439.25 713.25,433.75 714.5,429.75 718,422.5 710.5,420.25 705.25,415.5 701.5,418 697.25,417.5 702.75,412.25 710,415.75 718,417.5 724.25,420.25 726.5,416.75 717.75,410 709.25,404.25 707.25,398.5 700.25,385.25 695,374 677,366Z"
 		},
 		{
@@ -372,7 +371,7 @@ window.JSMaps.maps.china = {
 		},
 		{
 			"enable": true,
-			"name": "Tinajin",
+			"name": "Tianjin",
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,
@@ -380,7 +379,7 @@ window.JSMaps.maps.china = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>Tinajin</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
+			"text": "<h1>Tianjin</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M651.5,283.125 651.25,277.25 647.75,277.25 644.5,273 645.75,268.25 639.75,265 638.25,269.5 639.25,274.25 638,277.25 635.5,276.25 633.75,278.5 636.75,286 633.75,293 638.75,295.75 646,296.5 647.75,286Z"
 		},
 		{
@@ -421,18 +420,6 @@ window.JSMaps.maps.china = {
 			"url": "http://jsmaps.io",
 			"text": "<h1>Zhejiang</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M713.25,433.75 705.5,439.25 703.75,428.5 697.75,427 695,432.75 691.25,435.5 690.25,442.625 685,445.5 688.5,448.75 686.5,452.5 682.5,451 679,451.75 681.25,457.25 672.75,469.5 669.25,476 674,482.5 677,490.25 682.75,491.5 682.75,499.5 685.5,506.25 692.25,506 697.75,500.75 701,507.25 709,505 713.25,507.25 714.5,501 717,495.5 713.25,492 720,490.25 721.5,488 721.5,484.25 724.25,484.5 726.5,488 728.5,484.25 730.625,483.75 726.5,477.75 730.625,475.75 726.5,467.125 728.5,467.125 732.5,467.125 732.5,461 729.5,462 724.25,464.25 724.25,462 730.625,457.25 732.5,452.25 726.5,450.75 719.75,447.75 713.25,451.25 709.75,449.25 700.875,451 708.5,446 713.25,447.25 716.25,442.625 718.5,440.75 718.75,439.25 714.5,437.5Z"
-		}
-	],
-	"pins": [
-		{
-			"name": "Guangzhou",
-			"xPos": 594,
-			"yPos": 592,
-			"color": "#ffc90e",
-			"hoverColor": "#E32F02",
-			"selectedColor": "#feb41c",
-			"url": "http://jsmaps.io",
-			"text": "<h1>Guangzhou</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		}
 	]
 }
