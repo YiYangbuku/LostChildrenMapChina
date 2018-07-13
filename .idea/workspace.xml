@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b85a5c4-017c-4366-81bc-d6f3becd55c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/china/data/frequecy.js" afterPath="$PROJECT_DIR$/china/data/frequecy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/china/data/frequencyMapper.js" afterPath="$PROJECT_DIR$/china/data/frequencyMapper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/china/index.html" afterPath="$PROJECT_DIR$/china/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/china/maps/china.js" afterPath="$PROJECT_DIR$/china/maps/china.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/china/utils/HSLColorGenerator.js" afterPath="$PROJECT_DIR$/china/utils/HSLColorGenerator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/china/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frequecy.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frequecy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/china/data/frequecy.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -84,18 +81,18 @@
       <file leaf-file-name="frequencyMapper.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/china/data/frequencyMapper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/china/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -104,8 +101,8 @@
       <file leaf-file-name="HSLColorGenerator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/china/utils/HSLColorGenerator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,7 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>yun</find>
       <find>nei</find>
       <find>jilin</find>
       <find>Sichuan</find>
@@ -162,6 +158,7 @@
       <find>&quot;color&quot;: &quot;#B12401&quot;,</find>
       <find>true</find>
       <find>jiangsu</find>
+      <find>Jiangshu</find>
     </findStrings>
     <replaceStrings>
       <replace>false</replace>
@@ -181,10 +178,11 @@
         <option value="$PROJECT_DIR$/china/data/frequecy.json" />
         <option value="$PROJECT_DIR$/china/jsmaps/jsmaps.js" />
         <option value="$PROJECT_DIR$/china/index.html" />
-        <option value="$PROJECT_DIR$/china/data/frequencyMapper.js" />
-        <option value="$PROJECT_DIR$/china/utils/HSLColorGenerator.js" />
         <option value="$PROJECT_DIR$/china/maps/china.js" />
         <option value="$PROJECT_DIR$/china/data/frequecy.js" />
+        <option value="$PROJECT_DIR$/china/utils/HSLColorGenerator.js" />
+        <option value="$PROJECT_DIR$/china/data/frequencyMapper.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -243,37 +241,6 @@
               <item name="china" type="462c0819:PsiDirectoryNode" />
               <item name="china" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="china" type="b2602c69:ProjectViewProjectNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="china" type="b2602c69:ProjectViewProjectNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="jsmaps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="china" type="b2602c69:ProjectViewProjectNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="jsmaps" type="462c0819:PsiDirectoryNode" />
-              <item name="jsmaps.js" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="china" type="b2602c69:ProjectViewProjectNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="maps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="china" type="b2602c69:ProjectViewProjectNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="china" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -290,6 +257,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -395,12 +367,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531451348939</updated>
-      <workItem from="1531451351864" duration="9894000" />
+      <workItem from="1531451351864" duration="10405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9894000" />
+    <option name="totallyTimeSpent" value="10405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -533,14 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/china/jsmaps/jsmaps.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="131" column="21" lean-forward="true" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/china/jsmaps/jsmaps.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -551,26 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/china/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/china/data/frequencyMapper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/china/utils/HSLColorGenerator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -583,10 +531,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/china/jsmaps/jsmaps.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="21" lean-forward="true" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/china/data/frequecy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/china/data/frequencyMapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
